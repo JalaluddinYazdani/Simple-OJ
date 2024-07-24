@@ -16,9 +16,6 @@ This section guides you through submitting a bug report for SimpleOJ. Following 
 - Ensure the bug was not already reported by searching on GitHub under [Issues](link to issues).
 - If you're unable to find an open issue addressing the problem, open a new one.
 
-**How Do I Submit A (Good) Bug Report?**
-
-Bugs are tracked as [GitHub issues](https://github.com/ah-naf/SimpleOJ-with-C-Python-Compiler-MERN-Project-/issues). Create an issue and provide the requisite information by filling in SimpleOJ bug report template. This template should be provided by the project maintainers.
 
 ### Pull Requests
 
